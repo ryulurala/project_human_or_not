@@ -1,4 +1,4 @@
-# Human-or-Not
+# Project Human or Not
 
 Human or Not: develop log...
 
